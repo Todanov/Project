@@ -1,3 +1,10 @@
-Это не большое приложение  для практики и понимания как работает React -React-Router - Redux.
+This is an e app for practicing and understanding how it works React React-Router  Redux.😐
+Calculate your finances😎
 
-ссылка на Демо приложения http://todanov-spoon.surge.sh/
+link to the Demo app http://todanov-spoon.surge.sh/
+
+
+Thanks thank you for viewing👀
+
+
+The next stage is development on React Native😎
